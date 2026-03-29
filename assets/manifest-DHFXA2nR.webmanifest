@@ -1,0 +1,21 @@
+{
+  "name": "番茄钟 PWA",
+  "short_name": "番茄钟",
+  "description": "支持离线使用、安装到桌面、数据导入导出的番茄钟应用",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#111827",
+  "theme_color": "#ef4444",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
